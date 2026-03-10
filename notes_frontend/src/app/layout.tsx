@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Minimal Next.js App",
-  description: "Ultra-minimal Next.js application",
+  title: "NoteMaster",
+  description: "A lightweight notes app (static-export compatible) with tags and search.",
 };
 
 export default function RootLayout({
